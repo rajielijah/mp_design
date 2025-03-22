@@ -1,16 +1,50 @@
-# mp_design
+Real Estate UI 
+This repository contains a beautifully designed Real Estate  UI built with Flutter.
+✨ Features
 
-A new Flutter project.
+Custom UI: A dark-themed map background with an overlay UI.
 
-## Getting Started
+Animated Transitions: Smooth animations for UI elements.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter: For cross-platform UI development.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart: The programming language for Flutter.
+
+Animations: Flutter animation controllers for smooth UI effects.
+
+🚀 Getting Started
+
+Prerequisites
+
+Install Flutter: Flutter Setup
+
+Ensure you have an IDE (VS Code, Android Studio) with Flutter configured.
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/repo-name.git
+
+Navigate to the project directory:
+
+cd repo-name
+
+Install dependencies:
+
+flutter pub get
+
+Run the application:
+
+flutter run
+
+📌 Future Improvements
+
+Add functional map integration (Google Maps, OpenStreetMap, etc.).
+
+Enhance animations and transitions.
+
+Implement state management for interactive filters.
