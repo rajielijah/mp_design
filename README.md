@@ -1,50 +1,31 @@
-Real Estate UI 
-This repository contains a beautifully designed Real Estate  UI built with Flutter.
-✨ Features
+# Real Estate UI
 
-Custom UI: A dark-themed map background with an overlay UI.
+This repository contains a beautifully designed Real Estate UI built with Flutter.
 
-Animated Transitions: Smooth animations for UI elements.
+## ✨ Features
 
+- **Custom UI**: A Real Estate UI.
+- **Animated Transitions**: Smooth animations for UI elements.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-Flutter: For cross-platform UI development.
+- **Flutter**: For cross-platform UI development.
+- **Dart**: The programming language for Flutter.
+- **Animations**: Flutter animation controllers for smooth UI effects.
 
-Dart: The programming language for Flutter.
+## 🚀 Getting Started
 
-Animations: Flutter animation controllers for smooth UI effects.
+### Prerequisites
 
-🚀 Getting Started
+- Install Flutter: [Flutter Setup](https://docs.flutter.dev/get-started/install)
+- Ensure you have an IDE (VS Code, Android Studio) with Flutter configured.
 
-Prerequisites
+### Installation
 
-Install Flutter: Flutter Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/repo-name.git
 
-Ensure you have an IDE (VS Code, Android Studio) with Flutter configured.
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/repo-name.git
-
-Navigate to the project directory:
-
-cd repo-name
-
-Install dependencies:
-
-flutter pub get
-
-Run the application:
-
-flutter run
-
-📌 Future Improvements
-
-Add functional map integration (Google Maps, OpenStreetMap, etc.).
-
-Enhance animations and transitions.
-
-Implement state management for interactive filters.
+   cd repo-name
+   flutter pub get
+   flutter run
